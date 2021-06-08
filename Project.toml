@@ -1,6 +1,6 @@
 name = "FooBar"
 uuid = "0ea81ee1-d282-43e2-8a0b-2a6cdfe007da"
-authors = ["hkauhanen <nenahuak@gmail.com> and contributors"]
+authors = ["hkauhanen <mail@henr.in>"]
 version = "0.1.0"
 
 [compat]
